@@ -1,4 +1,4 @@
-# KafkaProducerToFabric
+# Kafka Producer To Microsoft Fabric
 
 C# Console code sample of how to sent events to Microsoft Fabric.
 
